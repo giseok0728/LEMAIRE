@@ -1985,7 +1985,9 @@
 
 @media(max-width : 740px){
 
-    
+    .swpbtn_wrap_cf{
+        left: 20px;
+    }
 
 
     .business_tittle{
